@@ -169,7 +169,7 @@ export default function Footer() {
             </a>
             <a
               onClick={() => {
-                window.open("https://youtube.com/niraj.chaurasiya");
+                window.open("https://youtube.com/@niraj.chaurasiya");
               }}
               className="text-gray-500 flex hover:text-gray-900 dark:hover:text-white"
             >
