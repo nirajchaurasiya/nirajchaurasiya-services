@@ -54,8 +54,8 @@ export default function Review() {
               <p className="leading-relaxed mb-6 text-gray-100">
                 <span className="font-bold text-green-400">Game-Changer!</span>{" "}
                 <br />
-                NKC's transparent pricing and expertise transformed our website.
-                Thrilled with the results!
+                NKC&apos;s transparent pricing and expertise transformed our
+                website. Thrilled with the results!
               </p>
               <a className="inline-flex items-center">
                 <img

@@ -7,7 +7,7 @@ export default function ServicesCard() {
             Pricing
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-300">
-            Let's make your website that stands out.
+            Let&apos;s make your website that stands out.
           </p>
           <div className="flex mx-auto border-2 border-indigo-500 rounded overflow-hidden mt-6">
             <button className="py-1 px-4 bg-indigo-500 text-white focus:outline-none">
@@ -88,7 +88,7 @@ export default function ServicesCard() {
                 </svg>
               </button>
               <p className="text-xs text-gray-300 mt-3">
-                Literally you probably haven't heard of them jean shorts.
+                Literally you probably haven&apos;t heard of them jean shorts.
               </p>
             </div>
           </div>
@@ -185,7 +185,7 @@ export default function ServicesCard() {
                 </svg>
               </button>
               <p className="text-xs text-gray-300 mt-3">
-                Literally you probably haven't heard of them jean shorts.
+                Literally you probably haven&apos;t heard of them jean shorts.
               </p>
             </div>
           </div>
@@ -295,7 +295,7 @@ export default function ServicesCard() {
                 </svg>
               </button>
               <p className="text-xs text-gray-300 mt-3">
-                Literally you probably haven't heard of them jean shorts.
+                Literally you probably haven&apos;t heard of them jean shorts.
               </p>
             </div>
           </div>
@@ -405,7 +405,7 @@ export default function ServicesCard() {
                 </svg>
               </button>
               <p className="text-xs text-gray-300 mt-3">
-                Literally you probably haven't heard of them jean shorts.
+                Literally you probably haven&apos;t heard of them jean shorts.
               </p>
             </div>
           </div>
