@@ -1,8 +1,13 @@
+"use client";
 import Review from "@/components/Review";
 import ServicesCard from "@/components/ServicesCard";
-import React from "react";
+import React, { useEffect } from "react";
 
 export default function page() {
+  useEffect(() => {
+    document.title =
+      "Service Page / Explore a wide range of website categories offered by Niraj Chaurasiya's services!";
+  }, []);
   return (
     <div>
       <ServicesCard />
