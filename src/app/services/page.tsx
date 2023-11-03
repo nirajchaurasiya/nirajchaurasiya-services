@@ -1,12 +1,10 @@
-import Review from "@/components/Review";
 import ServicesCard from "@/components/ServicesCard";
 import React from "react";
 
-export default function page() {
+export default function Page() {
   return (
     <div>
       <ServicesCard />
-      <Review />
     </div>
   );
 }
