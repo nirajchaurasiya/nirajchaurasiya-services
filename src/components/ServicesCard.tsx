@@ -1,7 +1,7 @@
 export default function ServicesCard() {
   return (
     <section className="text-gray-300 body-font overflow-hidden">
-      <div className="container px-5 py-24 max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      {/* <div className="container px-5 py-24 max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <div className="flex flex-col text-center w-full mb-20">
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-gray-100">
             Pricing
@@ -410,6 +410,9 @@ export default function ServicesCard() {
             </div>
           </div>
         </div>
+      </div> */}
+      <div className="container px-5 py-24 font-bold text-2xl p-4 text-center">
+        This page is in development.
       </div>
     </section>
   );

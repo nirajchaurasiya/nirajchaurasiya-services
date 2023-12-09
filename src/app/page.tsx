@@ -9,9 +9,9 @@ export default function Page() {
       "Service Page / Explore a wide range of website categories offered by Niraj Chaurasiya's services!";
   }, []);
   return (
-    <div>
+    <div className="min-h-screen">
       <ServicesCard />
-      <Review />
+      {/* <Review /> */}
     </div>
   );
 }

@@ -11,7 +11,7 @@ const Contact = () => {
   }, []);
   const handleContactSubmit = (e: any) => {
     e.preventDefault();
-    alert("Submitted");
+    alert("This page is in development!");
   };
   return (
     <>
