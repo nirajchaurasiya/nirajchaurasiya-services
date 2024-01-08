@@ -35,7 +35,7 @@ export default function Review() {
                 />
                 <span className="flex-grow flex flex-col">
                   <span className="title-font  text-gray-100 font-bold pl-4">
-                    Holden Caulfield
+                    Rajan Kumar
                   </span>
                 </span>
               </a>
@@ -55,7 +55,7 @@ export default function Review() {
                 <span className="font-bold text-green-400">Game-Changer!</span>{" "}
                 <br />
                 NKC&apos;s transparent pricing and expertise transformed our
-                website. Thrilled with the results!
+                website. Thrilled with the results and great 24 x 7 support.
               </p>
               <a className="inline-flex items-center">
                 <img
@@ -66,7 +66,7 @@ export default function Review() {
                 />
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font  text-gray-100 font-bold">
-                    Alper Kamu
+                    Rohan Sah
                   </span>
                 </span>
               </a>

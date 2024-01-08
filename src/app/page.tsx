@@ -11,7 +11,7 @@ export default function Page() {
   return (
     <div className="min-h-screen">
       <ServicesCard />
-      {/* <Review /> */}
+      <Review />
     </div>
   );
 }

@@ -1,0 +1,165 @@
+[
+  {
+    "product": {
+      "title": "HTML + CSS (Foundational Web Design)",
+      "category": "STARTER PACK",
+      "id": 1,
+      "type": "starter-pack",
+      "price": 20.0,
+      "reviews": 4,
+      "description": "This web design approach focuses on using organized and meaningful HTML to structure content and improve accessibility. It employs CSS for responsive design, making sure the website looks good on different devices. The emphasis is on creating fast-loading pages, making it great for informational websites. Furthermore, the design is search engine-friendly, helping the website appear in search results more effectively."
+    },
+
+    "features": [
+      {
+        "title": "Structured",
+        "description": "Clean and semantic HTML for solid website structure."
+      },
+      {
+        "title": "Responsive",
+        "description": "CSS styling for a visually appealing and responsive design."
+      },
+      {
+        "title": "Fast",
+        "description": "Lightweight and fast-loading pages, ideal for informational websites."
+      },
+      {
+        "title": "SEO-friendly",
+        "description": "SEO-friendly structure to enhance search engine visibility."
+      }
+    ]
+  },
+
+  {
+    "product": {
+      "title": "HTML + CSS + JS (Interactive Web Design)",
+      "type": "basic-pack",
+      "category": "BASIC PACK",
+      "id": 2,
+      "price": 60.0,
+      "reviews": 4,
+      "description": "This interactive web design integrates HTML, CSS, and JavaScript to provide a dynamic and engaging user experience. JavaScript powers interactive elements, allowing for enhanced user engagement and dynamic content updates without needing to reload the entire page. The design includes form validation and user input processing to ensure data integrity. Additionally, animation effects and transitions are incorporated to make the user interface more visually appealing. The design is crafted to be compatible with various browsers, ensuring a consistent and seamless experience for users across different platforms."
+    },
+    "features": [
+      {
+        "title": "Includes starter pack",
+        "description": "It includes all the features that you can found on the starter pack."
+      },
+      {
+        "title": "Interactive",
+        "description": "Dynamic content updates without requiring page reloads for a seamless experience."
+      },
+      {
+        "title": "Dynamic",
+        "description": "Form validation and user input processing for improved data integrity."
+      },
+      {
+        "title": "Engaging",
+        "description": "Animation effects and transitions to make the user interface more engaging."
+      },
+      {
+        "title": "Cross-browser",
+        "description": "Compatibility with various browsers, ensuring a consistent experience."
+      }
+    ]
+  },
+  {
+    "product": {
+      "title": "HTML + CSS + JS + PHP (Server-Side Development)",
+      "type": "pro-pack",
+      "category": "PRO PACK",
+      "id": 3,
+      "price": 150.0,
+      "reviews": 4,
+      "description": "This server-side development stack incorporates HTML, CSS, JavaScript, and PHP, offering dynamic content generation through server-side scripting. It includes database integration for storing and retrieving dynamic data, along with session management and user authentication for secure interactions. Robust data handling is ensured through server-side form processing and validation. The utilization of PHP frameworks enhances code organization and scalability, making it a comprehensive solution for efficient and secure web development."
+    },
+    "features": [
+      {
+        "title": "Includes starter and basic pack",
+        "description": "It includes all the features that you can found on the starter and basic pack."
+      },
+      {
+        "title": "Dynamic",
+        "description": "Server-side scripting with PHP for dynamic content generation."
+      },
+      {
+        "title": "Database-driven",
+        "description": "Database integration for storing and retrieving dynamic data."
+      },
+      {
+        "title": "User Authentication",
+        "description": "Session management and user authentication for secure interactions."
+      },
+      {
+        "title": "Form Validation",
+        "description": "Server-side form processing and validation for robust data handling."
+      }
+    ]
+  },
+  {
+    "product": {
+      "title": "React + Node.js (Single-Page Applications)",
+      "type": "special-pack",
+      "category": "SPECIAL PACK",
+      "id": 4,
+      "price": 299.0,
+      "reviews": 4,
+      "description": "This Single-Page Application (SPA) development stack combines React for building reusable and modular UI components with Node.js for server-side JavaScript, enabling server-rendered applications. It incorporates the Virtual DOM to optimize performance and facilitate efficient UI updates, along with efficient state management to handle complex application logic seamlessly."
+    },
+    "features": [
+      {
+        "title": "Modular",
+        "description": "React for building reusable and modular components for the UI."
+      },
+      {
+        "title": "Server-rendered",
+        "description": "Node.js for server-side JavaScript, enabling server-rendered applications."
+      },
+      {
+        "title": "Virtual DOM",
+        "description": "Virtual DOM for optimizing performance and efficient UI updates."
+      },
+      {
+        "title": "Efficient",
+        "description": "Efficient state management for handling complex application logic."
+      }
+    ]
+  },
+  {
+    "product": {
+      "title": "Custom Full-Stack Solution",
+      "type": "custom-pack",
+      "category": "ADVANCED PACK",
+      "id": 5,
+      "price": 600.0,
+      "reviews": 4,
+      "description": "This custom full-stack solution for Comprehensive Web Development seamlessly integrates React for dynamic front-end interactions and employs Node.js to provide versatile server-side capabilities, supporting APIs and beyond. It stands out for its adaptability, incorporating additional technologies and frameworks tailored to project requirements, offering comprehensive capabilities for building complex web applications. With the flexibility to adapt and scale according to evolving project needs, it provides a versatile and dynamic solution for diverse development challenges."
+    },
+    "features": [
+      {
+        "title": "Include special package",
+        "description": "Elaboration or additional information about the main point."
+      },
+      {
+        "title": "Comprehensive",
+        "description": "Integration of React for dynamic front-end interactions.."
+      },
+      {
+        "title": "Adaptable",
+        "description": "Node.js for versatile server-side capabilities, supporting APIs and more."
+      },
+      {
+        "title": "Scalable",
+        "description": "Use of additional technologies and frameworks tailored to project requirements."
+      },
+      {
+        "title": "Full-stack",
+        "description": "Comprehensive full-stack capabilities for building complex web applications."
+      },
+      {
+        "title": "Flexibility",
+        "description": "Flexibility to adapt and scale based on evolving project needs."
+      }
+    ]
+  }
+]
