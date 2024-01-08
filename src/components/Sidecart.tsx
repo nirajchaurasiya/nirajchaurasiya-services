@@ -142,15 +142,21 @@ export default function Sidecart({
 
                     <div className="mt-6">
                       <a
-                        href={`https://wa.me/9779829279569?text=I'm%20interested%20in%20your%20${cartValue.map(
-                          (e) => {
-                            return e.type;
-                          }
-                        )}`}
-                        target="_blank"
+                        href={
+                          cartValue.length > 0
+                            ? `https://wa.me/9779829279569?text=I'm%20interested%20in%20your%20${cartValue.map(
+                                (e) => {
+                                  return e.type;
+                                }
+                              )}`
+                            : "#"
+                        }
+                        target={cartValue.length > 0 ? "_blank" : ""}
                         className="flex items-center justify-center rounded-md border border-transparent bg-green-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-green-700"
                       >
-                        Let&apos;s confirm on WhatsApp
+                        {cartValue.length > 0
+                          ? "Let's confirm on WhatsApp"
+                          : "Add an item to cart"}
                       </a>
                     </div>
                     <div className="mt-6 text-sm -m-2 text-gray-500">
