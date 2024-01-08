@@ -8,12 +8,12 @@ export default function Page() {
   const { type } = useParams();
   const [object, setObject] = useState<ProductData | {}>({});
   const allValues = React.useContext(CartContext);
-  if (!allValues) return null;
-  const { addToCart, cartValue, removeFromCart } = allValues;
   useEffect(() => {
     const findData = data.find((e) => e.product.type === type);
     setObject(findData || {});
   }, [type]);
+  if (!allValues) return null;
+  const { addToCart, cartValue, removeFromCart } = allValues;
 
   function addService() {
     const id = "product" in object ? object.product.id : 0;
@@ -30,6 +30,7 @@ export default function Page() {
     if (!type) return;
     else removeFromCart(type);
   }
+
   return (
     <section className="text-gray-600 body-font overflow-hidden">
       <div className="container px-5 py-12 mx-auto">

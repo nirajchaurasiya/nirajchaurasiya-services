@@ -176,7 +176,7 @@ export default function ServicesCard() {
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
               </button>
-              <p className="text-xs text-gray-300 mt-3">Let's build it!</p>
+              <p className="text-xs text-gray-300 mt-3">Let&apos;s build it!</p>
             </div>
           </div>
           <div className="p-4 xl:w-1/2 md:w-1/2 w-full">
@@ -333,7 +333,7 @@ export default function ServicesCard() {
                 </svg>
               </button>
               <p className="text-xs text-gray-300 mt-3">
-                Let's build your first single page applicatin!
+                Let&apos;s build your first single page application!
               </p>
             </div>
           </div>

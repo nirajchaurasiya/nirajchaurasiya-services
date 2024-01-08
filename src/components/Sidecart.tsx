@@ -150,13 +150,13 @@ export default function Sidecart({
                         target="_blank"
                         className="flex items-center justify-center rounded-md border border-transparent bg-green-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-green-700"
                       >
-                        Lets confirm on WhatsApp
+                        Let&apos;s confirm on WhatsApp
                       </a>
                     </div>
                     <div className="mt-6 text-sm -m-2 text-gray-500">
                       <p>
-                        Please don't refresh the page or you will loose the cart
-                        item.
+                        Please don&apos;t refresh the page or you will loose the
+                        cart item.
                       </p>
                     </div>
                   </div>
